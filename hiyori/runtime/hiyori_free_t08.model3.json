@@ -14,8 +14,10 @@
 				},
 				{
 					"File": "motion/hiyori_m02.motion3.json"
-				},
-				{
+				}
+			],
+			"Speak":[
+			{
 					"File": "motion/hiyori_m05.motion3.json"
 				}
 			],
