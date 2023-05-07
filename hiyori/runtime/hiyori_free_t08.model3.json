@@ -11,9 +11,6 @@
 			"Idle": [
 				{
 					"File": "motion/hiyori_m01.motion3.json"
-				},
-				{
-					"File": "motion/hiyori_m02.motion3.json"
 				}
 			],
 			"Speak":[
